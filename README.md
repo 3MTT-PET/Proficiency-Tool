@@ -54,7 +54,7 @@ Note: We are aware that this guide is a long step and does not follow standard G
 
 ## Curriculum
 
-To guide you in setting your questions, we have made the curriculum for all our skills/tracks available. Please [find it here)(https://docs.google.com/document/d/1bYGXEtBwgQO7bZ8bzQlCm1ACyq-x-qF-88vIRLgdjbI/edit?usp=sharing)
+To guide you in setting your questions, we have made the curriculum for all our skills/tracks available. Please [find it here](https://docs.google.com/document/d/1bYGXEtBwgQO7bZ8bzQlCm1ACyq-x-qF-88vIRLgdjbI/edit?usp=sharing)
 
 
 ## Step-by-Step Guide for Curating Assessment Questions
