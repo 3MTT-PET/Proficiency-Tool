@@ -44,7 +44,7 @@ This steps below are for contributors new to GitHub and the entire Git workflow.
 - That would be all from your end. The reviewers will take it up from there and notify you in the comments of your PR if your commit needs to be revised.
 
 
-Note: We are aware that this guide is a long step and does not follow standard Git procedure but we are putting out for contributors who are not familiar with Git/GitHub. 
+Note: We are aware that this guide is a long step and does not follow standard Git procedure but we are putting it out still because of contributors who are not familiar with Git/GitHub. 
 
 ### For Contributors familiar with Git/GitHub:
 
