@@ -1,0 +1,115 @@
+1. What does "data visualization" primarily aim to achieve?
+A) Complicate data interpretation
+B) Simplify data presentation for easier understanding
+C) Increase data storage requirements
+D) Replace all textual data with graphics
+Correct Answer: B
+
+2. Interpreting a histogram can help identify:
+A) The programming language used
+B) The distribution of data values
+C) The network bandwidth required
+D) The encryption method of data
+Correct Answer: B
+
+3. Given a dataset with time-series data, which visualization tool would best demonstrate trend over time?
+A) Bar chart
+B) Line graph
+C) Pie chart
+D) Scatter plot
+Correct Answer: B
+
+4. When examining a scatter plot, what might a clustering of points indicate?
+A) A random distribution of data
+B) An outlier in the dataset
+C) A potential correlation between variables
+D) A uniform distribution of data
+Correct Answer: C
+
+5. Which metric is commonly used to measure the central tendency of a dataset?
+A) Variance
+B) Mean
+C) Skewness
+D) Kurtosis
+Correct Answer: B
+
+6. A pie chart is best used for:
+A) Showing changes over time
+B) Comparing parts of a whole
+C) Identifying trends in large datasets
+D) Displaying correlations between variables
+Correct Answer: B
+
+7. For a dataset with missing values, which technique is generally preferred for imputation in time series analysis?
+
+A) Mean substitution
+B) Linear interpolation
+C) Deleting missing entries
+D) Using the mode
+Correct Answer: B
+
+8. When a box plot shows a longer lower whisker than upper whisker, this indicates:
+A) The median is high
+B) There are more outliers in the lower quartile
+C) The data is skewed right
+D) The data is skewed left
+Correct Answer: D
+
+9. What is the purpose of the mean in data analysis?
+A) To find the middle value of the dataset
+B) To calculate the total sum of all values
+C) To determine the most frequent value
+D) To measure the central tendency of the dataset
+Correct Answer: D
+
+10. Which chart type is best for comparing multiple categories of data at once?
+
+A) Line chart
+B) Pie chart
+C) Bar chart
+D) Histogram
+Correct Answer: C
+
+11. In data analysis, "mode" refers to:
+A) The average value
+B) The highest value
+C) The value that appears most frequently
+D) The difference between the highest and lowest values
+Correct Answer: C
+
+12. A heatmap is useful for:
+A) Showing relationships between two variables
+B) Displaying geographic distributions
+C) Visualizing the correlation matrix
+D) Representing individual data points
+Correct Answer: C
+
+13. To analyze seasonal patterns in sales data, which method is most appropriate?
+
+A) Linear regression
+B) Time series decomposition
+C) Cluster analysis
+D) Principal component analysis (PCA)
+Correct Answer: B
+
+14. A box plot reveals that a dataset has several outliers. What is a prudent next step?
+A) Remove all outliers without further analysis
+B) Investigate the cause of the outliers
+C) Ignore the outliers and proceed with analysis
+D) Increase the dataset size to dilute the outliers' impact
+Correct Answer: B
+
+15. Which visualization technique would be best for identifying a trend in customer churn over a year?
+A) Pie chart
+B) Bar graph
+C) Line chart
+D) Scatter plot
+Correct Answer: C
+
+16. When visualizing data, why is it important to consider the aspect ratio of a plot?
+
+A) It affects the plot's aesthetic appeal
+B) It can exaggerate or diminish perceived trends
+C) It determines the plot's color scheme
+D) It specifies the plot's resolution
+Correct Answer: B
