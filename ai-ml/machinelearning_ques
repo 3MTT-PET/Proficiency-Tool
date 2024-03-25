@@ -1,0 +1,118 @@
+1. Which of the following is an example of a supervised learning task?
+A) Clustering
+B) Dimensionality Reduction
+C) Regression
+D) Association
+Correct Answer: C
+
+2. In the context of machine learning, what does "overfitting" mean?
+
+A) The model performs well on the training data but poorly on unseen data.
+B) The model is too simple to capture the underlying pattern.
+C) The model requires more data to improve its accuracy.
+D) The model's predictions are always incorrect.
+Correct Answer: A
+
+3. If a model's performance on the training set is much better than on the test set, what is a plausible step to improve its generalization?
+
+A) Increase the complexity of the model.
+B) Decrease the size of the training set.
+C) Introduce regularization techniques.
+D) Use a different machine learning algorithm.
+Correct Answer: C
+
+4. When evaluating different machine learning models' performance, what metric would be most relevant for a highly imbalanced dataset?
+
+A) Accuracy
+B) Precision
+C) Recall
+D) F1 Score
+Correct Answer: D
+
+5. Which algorithm is primarily used for clustering?
+
+A) Linear Regression
+B) K-Means Clustering
+C) Logistic Regression
+D) Decision Trees
+Correct Answer: B
+
+6. In machine learning, "feature scaling" is:
+
+A) Modifying the output labels to fit a scale
+B) Adjusting the weights of a neural network
+C) Transforming input features to a similar scale
+D) Increasing the number of features for better accuracy
+Correct Answer: C
+
+7. To predict the price of houses given various features, which type of machine learning algorithm is most appropriate?
+
+A) Classification
+B) Regression
+C) Clustering
+D) Reinforcement Learning
+Correct Answer: B
+
+8. Evaluating a binary classifier, which metric would be best to focus on if false negatives carry a higher cost than false positives?
+
+A) Precision
+B) Recall
+C) Accuracy
+D) F1 Score
+Correct Answer: B
+
+9. Which algorithm is commonly used for classification tasks?
+
+A) K-Means Clustering
+B) Linear Regression
+C) Decision Trees
+D) PCA
+Correct Answer: C
+
+10. Why is data splitting important in machine learning?
+
+A) To increase the computational speed
+B) To prevent overfitting
+C) To enhance the model's accuracy on the training set
+D) To reduce the size of the dataset
+Correct Answer: B
+
+11. Cross-validation is used to:
+
+A) Combine different models into a single model
+B) Ensure the model performs well on unseen data
+C) Increase the speed of training
+D) Reduce the need for a test dataset
+Correct Answer: B
+
+12. Precision and recall are important metrics in:
+
+A) Regression tasks
+B) Clustering tasks
+C) Classification tasks
+D) Dimensionality reduction tasks
+Correct Answer: C
+
+13. To improve a model's performance on a highly skewed dataset, you might:
+
+A) Use a larger dataset
+B) Apply a different algorithm
+C) Adjust the class weight
+D) Increase the feature set
+Correct Answer: C
+
+14. In a decision tree, a high depth can often result in:
+
+A) Underfitting
+B) Reduced complexity
+C) Faster computation
+D) Overfitting
+Correct Answer: D
+
+15. When a model has high variance and low bias, which technique is likely to be most helpful?
+
+A) Adding more features
+B) Regularization
+C) Using a simpler model
+D) Collecting more data
+Correct Answer: B
