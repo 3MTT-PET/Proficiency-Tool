@@ -1,5 +1,5 @@
 # Technical Skills:
-## Entry-Level Software Development Questions:
+## Entry-Level Questions:
 
 1. What is the purpose of version control in software development?
 * A. To track changes in code over time and collaborate with team members **(Correct)**
@@ -125,7 +125,7 @@ print(my_list[1:3])
 * C) Only includes information about the code itself.
 * D) Focused on the developer's thought process during coding.
 
-## Intermediate-Level Software Development Questions:
+## Intermediate-Level Questions:
 
 1. What is the difference between unit testing and integration testing in software development?
 * A. Unit testing tests individual components in isolation, while integration testing verifies interactions between integrated components **(Correct)**
@@ -242,7 +242,7 @@ print(my_list[1:3])
 * D) Focus on ease of development over data efficiency and maintainability.
 
 # Soft Skills:
-## Entry-Level Software Development Questions:
+## Entry-Level Questions:
 
 1. When working in a team, what does it mean to be "proactive"?
 * A. Waiting for instructions before taking action
@@ -364,7 +364,7 @@ print(my_list[1:3])
 * C) Utilize stress management techniques like exercise or meditation. **(Correct)**
 * D) Work late nights and weekends without breaks to meet the deadline.
 
-## Intermediate-Level Software Development Questions:
+## Intermediate-Level Questions:
 
 1. How can you effectively "delegate tasks" to team members?
 * A. Micromanaging every aspect of the task
@@ -486,4 +486,249 @@ print(my_list[1:3])
 * C. Tailor your presentation to the audience's level of understanding, use visuals, and encourage questions. **(Correct)**
 * D. Present the information quickly to avoid taking up too much time.
 
+# Cognitive Abilities:
+## Entry-Level Questions:
+
+1. When debugging a program, what is the first step you should take?
+* A. Rewrite the entire program from scratch
+* B. Identify and understand the problem **(Correct)**
+* C. Ask a colleague to solve the problem for you
+* D. Ignore the issue and hope it resolves itself
+
+2. What is the purpose of a "for loop" in programming?
+* A. To execute a block of code repeatedly until a condition is met
+* B. To iterate over a sequence of elements **(Correct)**
+* C. To define a function that can be reused multiple times
+* D. To create a conditional branch in the code
+
+3. You encounter a runtime error in your code. What is the best course of action?
+* A. Ignore the error and continue running the program
+* B. Analyze the error message and identify the source of the problem **(Correct)**
+* C. Rewrite the entire codebase to avoid future errors
+* D. Delete the code and start over from scratch
+
+4. What is an algorithm?
+* A. A precise sequence of instructions for solving a problem **(Correct)**
+* B. A software tool for debugging code
+* C. A programming language syntax
+* D. A type of data structure
+
+5. Which data structure is best suited for implementing a LIFO (Last In, First Out) behavior?
+* A. Queue
+* B. Stack **(Correct)**
+* C. Linked List
+* D. Tree
+
+6. You need to sort a list of integers in ascending order. Which sorting algorithm would be most efficient for this task?
+* A. Bubble Sort
+* B. Quick Sort **(Correct)**
+* C. Insertion Sort
+* D. Selection Sort
+
+7. What is the purpose of a "try-catch" block in programming?
+* A. To execute a block of code only if a condition is met
+* B. To handle exceptions and prevent program crashes **(Correct)**
+* C. To define custom functions for reuse
+* D. To define variables with a specific scope
+
+8. Which of the following statements is true about recursion?
+* A. Recursion is less efficient than iteration in all cases
+* B. Recursion is a technique where a function calls itself **(Correct)**
+* C. Recursion can only be used with numeric data types
+* D. Recursion is not supported in modern programming languages
+
+9. You encounter a syntax error in your code. What is the best way to troubleshoot it?
+* A. Delete random lines of code until the error disappears
+* B. Use a debugger to step through the code and identify the error **(Correct)**
+* C. Ignore the error and hope it goes away
+* D. Rewrite the entire program from scratch
+
+10. What is the purpose of a "break" statement in a loop?
+* A. To terminate the loop and exit prematurely **(Correct)**
+* B. To skip the current iteration and continue with the next one
+* C. To execute a block of code only if a condition is met
+* D. To pause the execution of the loop temporarily
+
+11. What is the primary function of a compiler in software development?
+* A. To write code for the developer.
+* B. To translate code into machine-readable instructions. **(Correct)**
+* C. To identify and fix errors in code.
+* D. To document the code for future reference.
+
+12. A bug in your code is causing a program to crash. How would you approach troubleshooting the issue?
+* A. Run the program multiple times and hope for a different result.
+* B. Print debugging statements throughout the code to identify the source of the error. **(Correct)**
+* C. Rewrite the entire program from scratch.
+* D. Ask a colleague to fix the bug for you.
+
+13. You are tasked with developing a simple user interface for a new software program. What factors would you consider when designing the interface?
+* A. Aesthetics only, to make it visually appealing.
+* B. Functionality first, ensuring the interface is easy to use. **(Correct)**
+* C. Including complex features, to showcase advanced capabilities.
+* D. Prioritizing speed over user-friendliness.
+
+14. What is the difference between a bug and a feature in software development?
+* A. A bug is intentional functionality, and a feature is unintentional.
+* B. There is no difference; both terms are interchangeable.
+* C. A bug is an error in the code, and a feature is a desired functionality. **(Correct)**
+* D. A bug slows down the program, while a feature speeds it up.
+
+15. A loop in your code seems to be running infinitely. How can you identify the cause of this issue?
+* A. Increase the loop counter limit to stop it prematurely.
+* B. Review the loop condition and identify why it's not terminating. **(Correct)**
+* C. Add debugging statements outside the loop for irrelevant information.
+* D. Ask a senior developer to rewrite the entire loop for you.
+
+16. What is the difference between a variable and a constant in programming?
+* A. A variable changes value, while a constant remains fixed. **(Correct)**
+* B. A variable stores text, while a constant stores numbers.
+* C. A variable is used for calculations, while a constant defines colors.
+* D. There's no difference; both terms are interchangeable.
+
+17. You're tasked with writing a function to calculate the area of a rectangle. What steps would you take to achieve this?
+* A. Write generic code that can calculate the area of any shape.
+* B. Define variables for length and width, then multiply them for the area. **(Correct)**
+* C. Access a pre-written function for calculating area without understanding its logic.
+* D. Focus on making the code visually appealing with unnecessary comments.
+
+18. A user reports encountering error messages when using your program. How would you approach diagnosing the problem?
+* A. Ignore the reports assuming users are making mistakes.
+* B. Ask the user for more details and try to replicate the error. **(Correct)**
+* C. Reassure the user that the error messages are harmless.
+* D. Recommend the user reinstall the entire software program.
+
+19. You're given a piece of code with missing logic. How can you identify what functionality it's supposed to achieve?
+* A. Run the code and guess based on the output.
+* B. Analyze the variable names and comments (if any) for clues. **(Correct)**
+* C. Rewrite the entire code section from scratch.
+* D. Ask a colleague to explain the missing logic without any analysis.
+
+20. A third-party library your team relies on releases a new update with significant changes. How would you approach integrating this update into your existing project?
+* A. Directly update the library without testing its compatibility with your code.
+* B. Thoroughly test the updated library in a separate environment before integrating. **(Correct)**
+* C. Ignore the update and continue using the older version of the library.
+* D. Ask the library developers to modify their update to fit your specific needs.
+
+## Intermediate-Level Questions:
+
+1. You need to optimize the performance of a database query. What steps would you take to accomplish this?
+* A. Review the query execution plan and optimize indexes **(Correct)**
+* B. Rewrite the entire query from scratch
+* C. Increase the hardware resources of the database server
+* D. Ignore the performance issue and hope it resolves itself
+
+2. How would you approach refactoring a legacy codebase to improve its maintainability?
+* A. Rewrite the entire codebase from scratch
+* B. Identify and extract reusable components, and gradually refactor them **(Correct)**
+* C. Ignore the legacy code and focus on new development only
+* D. Hire external consultants to refactor the codebase
+
+3. You encounter a deadlock situation in a multi-threaded application. How would you resolve it?
+* A. Restart the application to clear the deadlock
+* B. Analyze the thread synchronization mechanisms and resolve conflicts **(Correct)**
+* C. Ignore the deadlock and hope it resolves itself
+* D. Increase the number of threads to overcome the deadlock
+
+4. You are tasked with optimizing the performance of a web application. What strategies would you employ?
+* A. Minify and bundle JavaScript and CSS files, optimize images, and implement caching **(Correct)**
+* B. Add more features to the application to attract more users
+* C. Increase the server's memory and CPU resources
+* D. Rewrite the entire application using a different programming language
+
+5. How would you approach troubleshooting a memory leak in a software application?
+* A. Ignore the memory leak and hope it resolves itself
+* B. Use memory profiling tools to identify the source of the leak and fix it **(Correct)**
+* C. Restart the application periodically to clear the memory
+* D. Allocate more memory to the application to prevent crashes
+
+6. You need to design a scalable architecture for a high-traffic web application. What factors would you consider?
+* A. Load balancing, horizontal scaling, caching, and database sharding **(Correct)**
+* B. Increasing the server's processing power and memory
+* C. Ignoring scalability concerns and focusing on functionality
+* D. Optimizing the application for a single server deployment
+
+7. How would you approach optimizing the runtime performance of a complex algorithm?
+* A. Rewrite the algorithm from scratch using a different approach
+* B. Analyze the algorithm's time complexity and identify opportunities for optimization **(Correct)**
+* C. Ignore performance concerns and focus on correctness only
+* D. Add more hardware resources to the server to improve performance
+
+8. You encounter a security vulnerability in a software application. What steps would you take to address it?
+* A. Ignore the vulnerability and hope it goes away
+* B. Analyze the vulnerability, develop a patch, and deploy it to production **(Correct)**
+* C. Inform the users about the vulnerability and ask them to avoid using the application
+* D. Downplay the severity of the vulnerability to avoid negative publicity
+
+9. How would you approach troubleshooting a network connectivity issue in a distributed system?
+* A. Restart the entire network infrastructure to clear the issue
+* B. Use network monitoring tools to identify the source of the issue and resolve it **(Correct)**
+* C. Ignore the connectivity issue and focus on other tasks
+* D. Increase the bandwidth of the network to overcome connectivity issues
+
+10. You need to design a disaster recovery plan for a critical system. What elements would you include in the plan?
+* A. Regular backups, redundant systems, failover mechanisms, and emergency response procedures **(Correct)**
+* B. Ignoring disaster recovery planning and hoping for the best
+* C. Increasing the security measures of the system to prevent disasters
+* D. Outsourcing disaster recovery planning to external consultants
+
+11. Your team is working on a large software project, and you notice a potential performance bottleneck in a specific module.
+What are some steps you could take to address this issue? **(Multichoice question)**
+* A. Ignore the bottleneck as long as the program functions.
+* B. Refactor the code in the module to improve efficiency. **(Correct)**
+* C. Offload the processing to a separate server. **(Correct)**
+* D. Both B and C **(Correct)**
+
+12. A client requests a new feature for your software that seems complex and resource-intensive to develop. How would you respond to this request?
+* A. Immediately accept the request and begin development.
+* B. Explain the technical challenges and propose alternative solutions. **(Correct)**
+* C. Outsource the development to a third-party company.
+* D. Convince the client to abandon the feature request entirely.
+
+13. You are designing a new software architecture for a scalable application. What are some key considerations when making design choices?
+* A. Focus solely on user interface design for a good first impression.
+* B. Prioritize modularity and reusability of code components. **(Correct)**
+* C. Implement all possible features without considering future expansion.
+* D. Design for the lowest possible development cost.
+
+14. Imagine you're building a web application that requires user authentication. How would you design a secure login system?
+* A. Store passwords in plain text for easy access.
+* B. Implement strong password hashing techniques and secure session management. **(Correct)**
+* C. Rely solely on user-generated questions for authentication.
+* D. Use a single login credential for all users for simplicity.
+
+15. What is the difference between Agile and Waterfall methodologies in software development?
+* A. Agile focuses on continuous iteration, while Waterfall is a linear approach. **(Correct)**
+* B. Agile requires detailed planning, while Waterfall is more flexible.
+* C. Agile is used for small projects, while Waterfall is better for large-scale development.
+* D. There's no significant difference; both terms describe the same process.
+
+16. A developer on your team proposes a new technology stack for an upcoming project. How would you evaluate this suggestion?
+* A. Reject the proposal without considering its potential benefits.
+* B. Research the technology stack and assess its suitability for the project's needs. **(Correct)**
+* C. Accept the proposal based solely on the developer's recommendation.
+* D. Choose a familiar technology stack regardless of its fit for the project.
+
+17. Your team is responsible for maintaining a large codebase. How can you identify areas that might be prone to bugs or performance issues?
+* A. Focus on visually complex code sections for potential errors.
+* B. Analyze code with repetitive logic and high cyclomatic complexity. **(Correct)**
+* C. Identify sections with the most comments as they might indicate past problems.
+* D. Prioritize bug fixes based on user complaints without further analysist.
+
+18. A new software development methodology is gaining popularity. How would you assess its potential benefits and drawbacks for your team's workflow?
+* A. Immediately adopt the new methodology without considering its fit for your team.
+* B. Research the methodology and compare it to your current practices. **(Correct)**
+* C. Reject the new methodology based on initial impressions without exploring its details.
+* D. Ask other teams for their opinions on the new methodology without further analysis.
+
+19. Your team is tasked with designing a RESTful API for a new software application. What design principles would you consider to ensure a well-structured and maintainable API?
+* A. Focus on using complex data structures to impress users.
+* B. Emphasize clear and consistent naming conventions for resources and parameters. **(Correct)**
+* C. Design the API based on internal implementation details rather than user needs.
+* D. Prioritize flexibility over clear documentation for the API.
+
+20. Imagine you're developing a mobile application that needs to handle different screen sizes and orientations effectively. How would you design the user interface to ensure a consistent and user-friendly experience across various devices?
+* A. Design a fixed layout and rely on users to scroll and zoom.
+* B. Implement responsive design principles to adapt the UI based on screen size. **(Correct)**
+* C. Develop separate versions of the app for different device types.
+* D. Use a single layout and ignore potential display issues on different devices.
 
