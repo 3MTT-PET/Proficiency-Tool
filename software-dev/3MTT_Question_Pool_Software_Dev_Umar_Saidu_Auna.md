@@ -1,3 +1,9 @@
+## Total Number of Questions
+* Technical Skills: 40
+* Soft Skills: 40
+* Cognitive Abilities: 40
+* Total Quesitions Added: 120
+
 # Technical Skills:
 ## Entry-Level Questions:
 
