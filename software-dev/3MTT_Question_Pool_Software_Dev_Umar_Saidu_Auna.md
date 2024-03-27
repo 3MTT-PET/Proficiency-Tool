@@ -244,6 +244,246 @@ print(my_list[1:3])
 # Soft Skills:
 ## Entry-Level Software Development Questions:
 
+1. When working in a team, what does it mean to be "proactive"?
+* A. Waiting for instructions before taking action
+* B. Anticipating problems and taking initiative to solve them **(Correct)**
+* C. Following orders without question
+* D. Reacting to situations only when asked
+
+2. Which of the following is an example of effective communication?
+* A. Sending an email without proofreading it
+* B. Listening actively and asking clarifying questions **(Correct)**
+* C. Interrupting others while they speak
+* D. Using technical jargon that others may not understand
+
+3. What does it mean to have "time management" skills?
+* A. Spending excessive time on tasks to ensure perfection
+* B. Prioritizing tasks and allocating time efficiently **(Correct)**
+* C. Waiting until the last minute to complete assignments
+* D. Ignoring deadlines and working at one's own pace
+
+4. How can you demonstrate "adaptability" in the workplace?
+* A. Resisting change and sticking to traditional methods
+* B. Being open to new ideas and quickly adjusting to new situations **(Correct)**
+* C. Insisting on doing tasks only in a specific way
+* D. Avoiding tasks that are outside of one's comfort zone
+
+5. What does it mean to "collaborate" with team members?
+* A. Working independently without seeking input from others
+* B. Sharing ideas and working together towards a common goal **(Correct)**
+* C. Competing with colleagues to outperform them
+* D. Taking credit for others' work
+
+6. What is the importance of active listening in a team setting?
+* A. It helps to dominate conversations and assert authority
+* B. It fosters understanding and promotes effective communication **(Correct)**
+* C. It allows one to focus solely on their own thoughts and ideas
+* D. It discourages others from expressing their opinions
+
+7. How can you demonstrate "empathy" towards your colleagues?
+* A. Ignoring their problems and focusing on your own tasks
+* B. Understanding and sharing the feelings of others **(Correct)**
+* C. Criticizing their mistakes without offering support
+* D. Competing with them for recognition and praise
+
+8. What does it mean to "take initiative" in the workplace?
+* A. Waiting for instructions before starting any task
+* B. Identifying opportunities for improvement and acting on them without being asked **(Correct)**
+* C. Avoiding responsibility and letting others make decisions
+* D. Following procedures strictly without deviating from them
+
+9. How can you effectively "manage conflicts" within a team?
+* A. Avoiding conflicts altogether to maintain harmony
+* B. Addressing conflicts openly and finding mutually acceptable solutions **(Correct)**
+* C. Blaming others for conflicts and refusing to take responsibility
+* D. Escalating conflicts to higher authorities for resolution
+
+10. What is the significance of "professionalism" in the workplace?
+* A. Behaving casually and informally with colleagues
+* B. Maintaining a high standard of conduct and ethics **(Correct)**
+* C. Prioritizing personal interests over organizational goals
+* D. Ignoring deadlines and commitments
+
+11. You're working on a bug fix, but it introduces an unintended side effect. How would you approach this situation?
+* A) Silently fix the side effect without informing anyone.
+* B) Report the bug fix as complete and hope no one notices the side effect.
+* C) Inform your team lead about the side effect and discuss potential solutions. **(Correct)**
+* D) Ignore the side effect if it doesn't seem critical.
+
+12. How do you prioritize your tasks when working on multiple projects simultaneously?
+* A) Focus on the project with the closest deadline, regardless of urgency.
+* B) Work on whichever project seems most interesting at the moment.
+* C) Develop a clear understanding of project deadlines and dependencies, then prioritize accordingly. **(Correct)**
+* D) Ask your team lead for constant guidance on prioritization.
+
+13. What steps would you take to effectively document a new feature you've developed?
+* A) Write internal comments within the code itself.
+* B) Briefly explain the feature in a commit message.
+* C) Create clear and concise documentation using a tool like a wiki or a shared document. **(Correct)**
+* D) Leave documentation for the next person who works on the code.
+
+14. Describe a situation where you had to explain a technical concept to someone with no technical background. How did you approach it?
+* A) Used complex technical jargon to ensure they understood the full details.
+* B) Explained it in a way that showcased your technical knowledge.
+* C) Used clear, simple language and relatable analogies to explain the concept. **(Correct)**
+* D) Avoided explaining technical details and focused on the outcome.
+
+15. How do you handle receiving critical feedback on your code from a colleague?
+* A) Take it personally and become defensive.
+* B) Ignore the feedback and continue working on your code.
+* C) Ask clarifying questions to understand the feedback and discuss potential solutions. **(Correct)**
+* D) Thank them for the feedback but explain why you disagree.
+
+16. What strategies can you use to effectively manage your time during a development sprint?
+* A) Work long hours without breaks to ensure everything gets done.
+* B) Focus on completing the most enjoyable tasks first.
+* C) Utilize time management techniques like breaking down tasks into smaller chunks and estimating completion times. **(Correct)**
+* D) Multitask constantly to get as much done as possible.
+
+17. Describe a situation where you had to collaborate with a team member who had a different working style than yours. How did you navigate this?
+* A) Avoided working with them as much as possible.
+* B) Tried to convince them to adopt your working style.
+* C) Communicated openly about your working styles and found common ground for collaboration. **(Correct)**
+* D) Focused on completing your individual tasks with minimal interaction.
+
+18. How do you stay up-to-date with the latest trends and technologies in software development?
+* A) Rely solely on information learned during your education.
+* B) Only update your knowledge when required for a specific project.
+* C) Actively follow industry publications, blogs, and online communities. **(Correct)**
+* D) Wait for your manager to recommend learning resources.
+
+19. What does "active listening" mean in the context of team communication?
+* A) Talking as much as possible to share your ideas.
+* B) Briefly acknowledging what others say but focusing on your own thoughts.
+* C) Paying close attention to what others are saying, both verbally and non-verbally. **(Correct)**
+* D) Waiting for your turn to speak without considering what others have said.
+
+20. How do you manage stress during a challenging project deadline?
+* A) Avoid communicating any concerns to your team.
+* B) Work through the stress by neglecting personal needs.
+* C) Utilize stress management techniques like exercise or meditation. **(Correct)**
+* D) Work late nights and weekends without breaks to meet the deadline.
+
 ## Intermediate-Level Software Development Questions:
+
+1. How can you effectively "delegate tasks" to team members?
+* A. Micromanaging every aspect of the task
+* B. Providing clear instructions and empowering team members to take ownership **(Correct)**
+* C. Assigning tasks randomly without considering individual strengths
+* D. Avoiding delegation altogether to maintain control
+
+2. What is the importance of "conflict resolution skills" in team dynamics?
+* A. To escalate conflicts to higher authorities for resolution
+* B. To address conflicts constructively and maintain a positive work environment **(Correct)**
+* C. To avoid conflicts by ignoring disagreements
+* D. To blame others for conflicts and absolve oneself of responsibility
+
+3. How can you effectively "manage stress" in a high-pressure work environment?
+* A. Ignoring stress and pushing through regardless
+* B. Practicing self-care techniques such as mindfulness and time management **(Correct)**
+* C. Taking on more tasks to distract oneself from stress
+* D. Bottling up emotions and avoiding seeking support from others
+
+4. What is the role of "emotional intelligence" in effective leadership?
+* A. To prioritize technical skills over interpersonal skills
+* B. To understand and manage one's own emotions and those of others **(Correct)**
+* C. To maintain a strict and authoritative leadership style
+* D. To avoid forming personal connections with team members
+
+5. How can you foster a "culture of feedback" within a team?
+* A. Providing feedback only when requested
+* B. Encouraging open communication and soliciting feedback from team members **(Correct)**
+* C. Criticizing others without offering constructive suggestions
+* D. Ignoring feedback from colleagues and superiors
+
+6. What does it mean to "manage expectations" in project management?
+* A. Promising unrealistic results to stakeholders
+* B. Setting clear goals and communicating them effectively to stakeholders **(Correct)**
+* C. Exceeding expectations without considering project constraints
+* D. Avoiding communication with stakeholders to prevent conflicts
+
+7. How can you demonstrate "negotiation skills" in a professional setting?
+* A. Insisting on one's own terms without considering others' perspectives
+* B. Finding mutually beneficial solutions through effective communication and compromise **(Correct)**
+* C. Avoiding negotiations altogether to maintain control
+* D. Threatening to walk away from negotiations to gain leverage
+
+8. What is the significance of "time management" for project deadlines?
+* A. Ignoring deadlines and working at one's own pace
+* B. Prioritizing tasks and allocating time efficiently to meet deadlines **(Correct)**
+* C. Waiting until the last minute to complete assignments
+* D. Spending excessive time on tasks to ensure perfection
+
+9. How can you promote "team cohesion" in a diverse work environment?
+* A. Encouraging competition among team members
+* B. Valuing diversity and fostering a sense of belonging and inclusion **(Correct)**
+* C. Ignoring cultural differences and enforcing uniformity
+* D. Excluding certain team members based on their backgrounds
+
+10. What is the significance of "active listening" in conflict resolution?
+* A. To assert one's own opinions and dominate the conversation
+* B. To understand the underlying concerns and perspectives of all parties involved **(Correct)**
+* C. To avoid conflicts altogether by ignoring disagreements
+* D. To interrupt others and impose one's own solutions without consideration
+
+11. Your team is struggling to meet a deadline due to unforeseen delays. How can you demonstrate leadership to address the situation?
+* A. Remain quiet and complete your individual tasks on time.
+* B. Blame other team members for the delays.
+* C. Proactively propose solutions to the team and collaborate to catch up. **(Correct)**
+* D. Delegate additional tasks to yourself without informing the team.
+
+12. During a code review, you discover a critical security vulnerability in a teammate's code. How should you approach this situation?
+* A. Publicly criticize the teammate in the code review comments.
+* B. Fix the vulnerability yourself without informing your teammate.
+* C. Privately discuss the issue with your teammate and offer to help them fix it. **(Correct)**
+* D. Report the vulnerability to your manager without talking to your teammate first.
+
+13. You're tasked with managing a small project with dependencies on other teams. How can you ensure effective communication and collaboration?
+* A. Assume other teams will understand your needs without communication.
+* B. Communicate only when there are delays or issues.
+* C. Schedule regular meetings with dependencies to share progress and discuss potential roadblocks. **(Correct)**
+* D. Focus solely on completing your team's tasks without considering dependencies.
+
+14. You disagree with a major technical decision made by your senior developer. What's the appropriate course of action?
+* A. Silently accept the decision and avoid voicing your concerns.
+* B. Publicly challenge the decision without offering alternatives.
+* C. Privately express your concerns to your senior developer and propose alternative solutions supported by data or reasoning. **(Correct)**
+* D. Raise the issue anonymously with your manager.
+
+15. Your team is implementing a new agile methodology. How can you best adapt your communication style to this new approach?
+* A. Continue using the same communication style as before.
+* B. Limit communication to team meetings and project documentation.
+* C. Prioritize short, frequent communication updates and encourage open collaboration. **(Correct)**
+* D. Rely solely on email communication for all project updates.
+
+16. You're facilitating a brainstorming session for a new feature. How can you ensure participation from all team members?
+* A. Dominate the discussion and present your own ideas.
+* B. Allow only the most vocal team members to contribute.
+* C. Create a structured discussion format that encourages participation from everyone. **(Correct)**
+* D. Assign specific ideas to each team member beforehand.
+
+17. Your team is working remotely on a complex project. How can you effectively manage the team and maintain a sense of collaboration?
+* A. Micromanage team members' work and daily tasks.
+* B. Rely solely on email communication for updates.
+* C. Utilize online collaboration tools and schedule regular video meetings to maintain communication and team spirit. **(Correct)**
+* D. Focus on individual tasks without considering team dynamics.
+
+18. A client expresses dissatisfaction with a proposed solution. How should you approach the situation?
+* A. Become defensive and explain why your solution is the best.
+* B. Ignore the client's concerns and proceed with the original plan.
+* C. Actively listen to the client's concerns, ask clarifying questions, and work collaboratively to find a solution that meets their needs. **(Correct)**
+* D. Delegate the communication with the client to your manager.
+
+19. You're mentoring a junior developer who's struggling with a task. How can you best support them?
+* A. Provide all the answers without allowing them to problem-solve.
+* B. Criticize their approach and tell them how to do it differently.
+* C. Offer guidance, ask probing questions to help them understand the problem, and encourage independent problem-solving. **(Correct)**
+* D. Delegate the task to another developer.
+
+20. You're presenting a technical solution to a large audience. How can you ensure your presentation is clear and engaging?
+* A. Focus on technical jargon and complex details.
+* B. Read directly from your slides without audience interaction.
+* C. Tailor your presentation to the audience's level of understanding, use visuals, and encourage questions. **(Correct)**
+* D. Present the information quickly to avoid taking up too much time.
 
 
